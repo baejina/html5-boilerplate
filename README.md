@@ -2,9 +2,7 @@
 
 #Setup
     npm install
-    npm update
     bower install
-    bower update
     gulp
 
 #Setting
@@ -34,6 +32,7 @@
 
                   
                   
+<pre>
 .--.              
 |   )             
 |--: .-.  .-. .-..
@@ -41,5 +40,5 @@
 '--' `-'`-`--'`-`|
               ._.'
                   
-
+</pre>
 
