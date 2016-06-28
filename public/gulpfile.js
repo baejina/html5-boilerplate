@@ -56,12 +56,5 @@ gulp.task('minifycss', function() {
         .pipe(gulp.dest(Dir.dist))
 });
 
-// 파일 변경 감지...
-//gulp.task('watch', function () {
-//    gulp.watch( [Dir.css, Dir.js, Dir.bower] , ['minifycss', 'minifyjs', 'minifyPolyfillJs']);
-//});
-
-// Develop build
 gulp.task('default', ['minifycss','minifyjs','minifyPolyfillJs']);
-//gulp.task('default', ['watch']);
 
