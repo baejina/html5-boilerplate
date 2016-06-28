@@ -1,0 +1,25 @@
+{
+  "name": "UXteam",
+  "authors": [
+    "Baedorazy <jnbae@yellocorp.com>"
+  ],
+  "description": "setting",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "components-font-awesome": "^4.6.3",
+    "es5-shim": "^4.5.8",
+    "modernizr": "^3.3.1",
+    "jquery-placeholder": "^2.3.1"
+  }
+}

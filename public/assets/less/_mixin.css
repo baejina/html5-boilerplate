@@ -1,0 +1,16 @@
+.mixin-clearfix {
+  zoom: 1;
+}
+.mixin-clearfix:before,
+.mixin-clearfix:after {
+  content: "";
+  display: table;
+}
+.mixin-clearfix:after {
+  clear: both;
+}
+.mixin-clearfix::after {
+  content: '';
+  display: table;
+  clear: both;
+}
