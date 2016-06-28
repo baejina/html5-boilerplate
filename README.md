@@ -29,14 +29,13 @@
     
 
 #Author
-    Baedorazy
+    Baedorazy@naver.com
+                 
 .--.              
 |   )             
 |--: .-.  .-. .-..
 |   |   )(.-'(   |
 '--' `-'`-`--'`-`|
               ._.'
-                  
-#FeedBack
-    baedorazy@naver.com
+
 
