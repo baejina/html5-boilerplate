@@ -16,7 +16,7 @@
     CrossBrowsing > ie7
 
 #Dependency
-    jQuery
+    jQuery1.x
     bootstrap3.x
     bower
     gulp
