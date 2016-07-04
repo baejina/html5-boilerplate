@@ -2,14 +2,12 @@
 
 #Setup
     npm install
-    npm update
     bower install
-    bower update
     gulp
 
 #Setting
-    Editing to gulpfile.js
-    Put your css,js for your Paths(js,css)
+    
+    gulpfile to Put your css,js for your Paths(js,css)
 
 #Use
     Mordern Browser
@@ -34,6 +32,7 @@
 
                   
                   
+<pre>
 .--.              
 |   )             
 |--: .-.  .-. .-..
@@ -41,5 +40,5 @@
 '--' `-'`-`--'`-`|
               ._.'
                   
-
+</pre>
 
