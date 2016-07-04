@@ -28,7 +28,7 @@
     2. Get of Minify(.min.css, min.js, polyfills.min.js) 
     3. CrossBrowsing polyfills
        (ie10-viewport-bug-workaround, jquery.placeholder, mordernizr.js)
-    
+    4. Commend to "gulp" before editing of ".less", ".js"
 
 #Author
     Baedorazy@naver.com
