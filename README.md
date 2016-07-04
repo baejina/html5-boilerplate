@@ -19,8 +19,9 @@
     bower
     gulp
 
-#basic plugin
+#Basic plugin
     jquery, bootstrap, font-awesome, html5-shim
+    webfont(notokr)
 
 #Description
     1. Make your projects is very fast
