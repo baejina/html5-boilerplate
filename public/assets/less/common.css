@@ -1,6 +1,6 @@
 @charset "utf-8";
-@import url(//yellostory.s3.amazonaws.com/fonts/notokr/notokr-regular.css);
-@import url(//yellostory.s3.amazonaws.com/fonts/notokr/notokr-bold.css);
+@import url(http://yellostory.s3.amazonaws.com/fonts/notokr/notokr-regular.css);
+@import url(http://yellostory.s3.amazonaws.com/fonts/notokr/notokr-bold.css);
 .mixin-clearfix {
   zoom: 1;
 }
@@ -121,7 +121,7 @@ section {
 }
 body {
   line-height: 1;
-  font-family: notokr, sans-serif;
+  font-family: "notokr", sans-serif;
 }
 ol,
 ul {
