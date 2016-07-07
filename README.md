@@ -6,7 +6,6 @@
     gulp
 
 #Setting
-    
     gulpfile to Put your css,js for your Paths(js,css)
 
 #Use
@@ -23,11 +22,13 @@
     jquery, bootstrap, font-awesome, html5-shim
     webfont(notokr)
 
+#polyfills
+    ie10-viewport-bug-workaround, jquery.placeholder, mordernizr.js
+
 #Description
     1. Make your projects is very fast
     2. Get of Minify(.min.css, min.js, polyfills.min.js) 
-    3. CrossBrowsing polyfills
-       (ie10-viewport-bug-workaround, jquery.placeholder, mordernizr.js)
+    3. Give CrossBrowsing of polyfills
     4. Commend to "gulp" before editing of ".less", ".js"
 
 #Author
