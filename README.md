@@ -1,5 +1,9 @@
 # html5-boilerplate
 
+
+#Before 
+    Did you install npm,bower,gulp?
+
 #Setup
     npm install
     bower install
