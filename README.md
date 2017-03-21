@@ -1,4 +1,4 @@
-# html5-boilerplate
+#html5-boilerplate
 
 
 #Before 
@@ -36,7 +36,7 @@
     4. Commend to "gulp" before editing of ".less", ".js"
 
 #Author
-    Baedorazy@naver.com
+    wlsk1103@gmail.com
 
 <pre>
 .--.              
@@ -45,6 +45,5 @@
 |   |   )(.-'(   |
 '--' `-'`-`--'`-`|
               ._.'
-                  
 </pre>
 

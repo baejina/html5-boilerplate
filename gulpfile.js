@@ -11,8 +11,8 @@ var gulp = require('gulp'),
 
 // 저장된 위치 배포될 위치
 var Dir =  {
-    src: './assets',
-    dist: './dist',
+    src: 'public/assets',
+    dist: 'public/dist',
     bower: './bower_components'
 };
 
