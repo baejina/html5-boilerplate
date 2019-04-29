@@ -1,13 +1,11 @@
 # HTML5-boilerplate
 
 
-#Before 
-    Did you install npm,bower,gulp?
+bower install
+npm install
+gulp
+php -S localhost:8080
 
-#Setup
-    npm install
-    bower install
-    gulp
 
 #Setting
     gulpfile to Put your css,js for your Paths(js,css)
